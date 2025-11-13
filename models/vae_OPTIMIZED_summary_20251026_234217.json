@@ -1,0 +1,20 @@
+{
+  "timestamp": "20251026_234217",
+  "optimization": "IMPROVED",
+  "improvements": [
+    "pos_weight increased to 1.5",
+    "beta reduced to 0.3",
+    "LayerNorm instead of BatchNorm",
+    "Stronger position predictor",
+    "KL warmup",
+    "Better optimizer (AdamW)",
+    "Cosine annealing scheduler"
+  ],
+  "metrics": {
+    "pos_r2": 0.9823525547981262,
+    "pos_mae": 0.5824995636940002,
+    "best_r2_during_training": 0.9710065021061555
+  },
+  "model_path": "models/f1_vae_OPTIMIZED_20251026_234217.pth",
+  "latent_path": "data/preprocessed/vae_latent_OPTIMIZED_20251026_234217.csv"
+}

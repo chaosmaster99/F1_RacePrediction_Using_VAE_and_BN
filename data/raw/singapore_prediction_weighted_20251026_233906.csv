@@ -1,0 +1,241 @@
+year,driver_name,driver_abbr,team,grid_pos,finish_pos,points,status,pos_change,quali_pos,q1_time,q2_time,q3_time,total_laps,tyres_used,pit_stops,gap_to_pole,data_weight,data_source,prediction_relevance
+2022,Sergio Perez,PER,Red Bull Racing,2.0,1.0,25.0,Finished,1,2.0,114.404,112.818,109.434,59,"SOFT,MEDIUM",2,0.02199999999999136,3.0,target_circuit_2022,critical
+2022,Charles Leclerc,LEC,Ferrari,1.0,2.0,18.0,Finished,-1,1.0,114.129,112.343,109.412,59,"SOFT,MEDIUM",2,0.0,3.0,target_circuit_2022,critical
+2022,Carlos Sainz,SAI,Ferrari,4.0,3.0,15.0,Finished,1,4.0,114.559,113.219,109.583,59,"SOFT,MEDIUM",2,0.17099999999999227,3.0,target_circuit_2022,critical
+2022,Lando Norris,NOR,McLaren,6.0,4.0,12.0,Finished,2,6.0,115.914,113.942,110.584,59,"SOFT,MEDIUM",2,1.171999999999997,3.0,target_circuit_2022,critical
+2022,Daniel Ricciardo,RIC,McLaren,16.0,5.0,10.0,Finished,11,17.0,116.226,0.0,0.0,59,"SOFT,MEDIUM",2,0.0,3.0,target_circuit_2022,critical
+2022,Lance Stroll,STR,Aston Martin,11.0,6.0,8.0,Finished,5,12.0,115.629,114.211,0.0,59,"SOFT,MEDIUM",2,4.798999999999992,3.0,target_circuit_2022,critical
+2022,Max Verstappen,VER,Red Bull Racing,8.0,7.0,6.0,Finished,1,8.0,113.057,112.723,111.395,59,"SOFT,MEDIUM",2,1.9829999999999899,3.0,target_circuit_2022,critical
+2022,Sebastian Vettel,VET,Aston Martin,13.0,8.0,4.0,Finished,5,14.0,115.602,114.38,0.0,59,"SOFT,MEDIUM",2,4.967999999999989,3.0,target_circuit_2022,critical
+2022,Lewis Hamilton,HAM,Mercedes,3.0,9.0,2.0,Finished,-6,3.0,113.161,112.691,109.466,59,"SOFT,MEDIUM",2,0.053999999999987836,3.0,target_circuit_2022,critical
+2022,Pierre Gasly,GAS,AlphaTauri,7.0,10.0,1.0,Finished,-3,7.0,115.606,113.546,111.211,59,"SOFT,MEDIUM",2,1.7989999999999924,3.0,target_circuit_2022,critical
+2022,Valtteri Bottas,BOT,Alfa Romeo,15.0,11.0,0.0,Finished,4,16.0,116.083,0.0,0.0,59,"SOFT,MEDIUM",2,0.0,3.0,target_circuit_2022,critical
+2022,Kevin Magnussen,MAG,Haas F1 Team,9.0,12.0,0.0,Finished,-3,9.0,115.103,114.006,111.573,59,"SOFT,MEDIUM",2,2.160999999999987,3.0,target_circuit_2022,critical
+2022,Mick Schumacher,MSC,Haas F1 Team,12.0,13.0,0.0,+1 Lap,-1,13.0,115.736,114.37,0.0,58,"SOFT,MEDIUM",2,4.957999999999998,3.0,target_circuit_2022,critical
+2022,George Russell,RUS,Mercedes,0.0,14.0,0.0,+2 Laps,0,11.0,114.633,114.012,0.0,57,"SOFT,MEDIUM",2,4.599999999999994,3.0,target_circuit_2022,critical
+2022,Yuki Tsunoda,TSU,AlphaTauri,10.0,15.0,0.0,Accident,-5,10.0,115.314,113.848,111.983,35,"SOFT,MEDIUM",1,2.570999999999998,3.0,target_circuit_2022,critical
+2022,Esteban Ocon,OCO,Alpine,17.0,16.0,0.0,Engine,1,18.0,116.337,0.0,0.0,27,"SOFT,MEDIUM",1,0.0,3.0,target_circuit_2022,critical
+2022,Alexander Albon,ALB,Williams,18.0,17.0,0.0,Collision damage,1,19.0,116.985,0.0,0.0,25,"SOFT,MEDIUM",1,0.0,3.0,target_circuit_2022,critical
+2022,Fernando Alonso,ALO,Alpine,5.0,18.0,0.0,Engine,-13,5.0,115.36,113.127,109.966,21,SOFT,0,0.5539999999999878,3.0,target_circuit_2022,critical
+2022,Nicholas Latifi,LAT,Williams,19.0,19.0,0.0,Collision damage,0,20.0,117.532,0.0,0.0,7,SOFT,0,0.0,3.0,target_circuit_2022,critical
+2022,Guanyu Zhou,ZHO,Alfa Romeo,14.0,20.0,0.0,Collision,-6,15.0,115.375,115.518,0.0,7,SOFT,0,6.1059999999999945,3.0,target_circuit_2022,critical
+2023,Carlos Sainz,SAI,Ferrari,1.0,1.0,25.0,Finished,0,1.0,92.339,91.439,90.984,62,"SOFT,MEDIUM",2,0.0,3.0,target_circuit_2023,critical
+2023,Lando Norris,NOR,McLaren,4.0,2.0,18.0,Finished,2,4.0,92.483,91.951,91.27,62,"SOFT,MEDIUM",2,0.28600000000000136,3.0,target_circuit_2023,critical
+2023,Lewis Hamilton,HAM,Mercedes,5.0,3.0,16.0,Finished,2,5.0,92.651,92.019,91.485,62,"SOFT,MEDIUM",2,0.5010000000000048,3.0,target_circuit_2023,critical
+2023,Charles Leclerc,LEC,Ferrari,3.0,4.0,12.0,Finished,-1,3.0,92.406,92.012,91.063,62,"SOFT,MEDIUM",2,0.07900000000000773,3.0,target_circuit_2023,critical
+2023,Max Verstappen,VER,Red Bull Racing,11.0,5.0,10.0,Finished,6,11.0,92.398,92.173,0.0,62,"SOFT,MEDIUM",2,1.1890000000000072,3.0,target_circuit_2023,critical
+2023,Pierre Gasly,GAS,Alpine,12.0,6.0,8.0,Finished,6,12.0,92.452,92.274,0.0,62,"SOFT,MEDIUM",2,1.2900000000000063,3.0,target_circuit_2023,critical
+2023,Oscar Piastri,PIA,McLaren,17.0,7.0,6.0,Finished,10,17.0,92.902,0.0,0.0,62,"SOFT,MEDIUM",2,0.0,3.0,target_circuit_2023,critical
+2023,Sergio Perez,PER,Red Bull Racing,13.0,8.0,4.0,Finished,5,13.0,92.099,92.31,0.0,62,"SOFT,MEDIUM",2,1.3260000000000076,3.0,target_circuit_2023,critical
+2023,Liam Lawson,LAW,AlphaTauri,10.0,9.0,2.0,Finished,1,10.0,92.215,92.166,92.268,62,"SOFT,MEDIUM",2,1.284000000000006,3.0,target_circuit_2023,critical
+2023,Kevin Magnussen,MAG,Haas F1 Team,6.0,10.0,1.0,Finished,-4,6.0,92.242,91.892,91.575,62,"SOFT,MEDIUM",2,0.5910000000000082,3.0,target_circuit_2023,critical
+2023,Alexander Albon,ALB,Williams,14.0,11.0,0.0,Finished,3,14.0,92.668,93.719,0.0,62,"SOFT,MEDIUM",2,2.7349999999999994,3.0,target_circuit_2023,critical
+2023,Guanyu Zhou,ZHO,Alfa Romeo,19.0,12.0,0.0,Finished,7,19.0,93.258,0.0,0.0,62,"SOFT,MEDIUM",2,0.0,3.0,target_circuit_2023,critical
+2023,Nico Hulkenberg,HUL,Haas F1 Team,9.0,13.0,0.0,Finished,-4,9.0,92.1,91.994,91.808,62,"SOFT,MEDIUM",2,0.8240000000000123,3.0,target_circuit_2023,critical
+2023,Logan Sargeant,SAR,Williams,18.0,14.0,0.0,Finished,4,18.0,93.252,0.0,0.0,62,"SOFT,MEDIUM",2,0.0,3.0,target_circuit_2023,critical
+2023,Fernando Alonso,ALO,Aston Martin,7.0,15.0,0.0,Finished,-8,7.0,92.584,91.835,91.615,62,"SOFT,MEDIUM",2,0.6310000000000002,3.0,target_circuit_2023,critical
+2023,George Russell,RUS,Mercedes,2.0,16.0,0.0,Finished,-14,2.0,92.331,91.743,91.056,62,"SOFT,MEDIUM",2,0.07200000000000273,3.0,target_circuit_2023,critical
+2023,Valtteri Bottas,BOT,Alfa Romeo,16.0,17.0,0.0,Retired,-1,16.0,92.809,0.0,0.0,52,"SOFT,MEDIUM",2,0.0,3.0,target_circuit_2023,critical
+2023,Esteban Ocon,OCO,Alpine,8.0,18.0,0.0,Retired,-10,8.0,92.369,92.089,91.673,43,"SOFT,MEDIUM",1,0.6890000000000072,3.0,target_circuit_2023,critical
+2023,Yuki Tsunoda,TSU,AlphaTauri,15.0,19.0,0.0,Retired,-4,15.0,91.991,0.0,0.0,1,SOFT,0,0.0,3.0,target_circuit_2023,critical
+2023,Lance Stroll,STR,Aston Martin,0.0,0.0,0.0,Withdrew,0,20.0,93.397,0.0,0.0,0,SOFT,0,0.0,3.0,target_circuit_2023,critical
+2024,Lando Norris,NOR,McLaren,1.0,1.0,25.0,Finished,0,1.0,90.002,90.007,89.525,62,"SOFT,MEDIUM",2,0.0,3.0,target_circuit_2024,critical
+2024,Max Verstappen,VER,Red Bull Racing,2.0,2.0,18.0,Finished,0,2.0,90.157,89.68,89.728,62,"SOFT,MEDIUM",2,0.20299999999998875,3.0,target_circuit_2024,critical
+2024,Oscar Piastri,PIA,McLaren,5.0,3.0,15.0,Finished,2,5.0,90.258,89.64,89.953,62,"SOFT,MEDIUM",2,0.42799999999999727,3.0,target_circuit_2024,critical
+2024,George Russell,RUS,Mercedes,4.0,4.0,12.0,Finished,0,4.0,90.811,90.153,89.867,62,"SOFT,MEDIUM",2,0.34199999999999875,3.0,target_circuit_2024,critical
+2024,Charles Leclerc,LEC,Ferrari,9.0,5.0,10.0,Finished,4,9.0,90.786,89.747,0.0,62,"SOFT,MEDIUM",2,0.2219999999999942,3.0,target_circuit_2024,critical
+2024,Lewis Hamilton,HAM,Mercedes,3.0,6.0,8.0,Finished,-3,3.0,90.393,89.929,89.841,62,"SOFT,MEDIUM",2,0.3159999999999883,3.0,target_circuit_2024,critical
+2024,Carlos Sainz,SAI,Ferrari,10.0,7.0,6.0,Finished,3,10.0,90.67,90.108,0.0,62,"SOFT,MEDIUM",2,0.5829999999999984,3.0,target_circuit_2024,critical
+2024,Fernando Alonso,ALO,Aston Martin,7.0,8.0,4.0,Lapped,-1,7.0,90.684,90.45,90.214,61,"SOFT,MEDIUM",2,0.688999999999993,3.0,target_circuit_2024,critical
+2024,Nico Hulkenberg,HUL,Haas F1 Team,6.0,9.0,2.0,Lapped,-3,6.0,90.724,90.15,90.115,61,"SOFT,MEDIUM",2,0.5899999999999892,3.0,target_circuit_2024,critical
+2024,Sergio Perez,PER,Red Bull Racing,13.0,10.0,1.0,Lapped,3,13.0,90.624,90.579,0.0,61,"SOFT,MEDIUM",2,1.0539999999999878,3.0,target_circuit_2024,critical
+2024,Franco Colapinto,COL,Williams,12.0,11.0,0.0,Lapped,1,12.0,90.704,90.481,0.0,61,"SOFT,MEDIUM",2,0.9559999999999889,3.0,target_circuit_2024,critical
+2024,Yuki Tsunoda,TSU,RB,8.0,12.0,0.0,Lapped,-4,8.0,90.716,90.289,90.354,61,"SOFT,MEDIUM",2,0.8289999999999935,3.0,target_circuit_2024,critical
+2024,Esteban Ocon,OCO,Alpine,15.0,13.0,0.0,Lapped,2,15.0,90.958,90.769,0.0,61,"SOFT,MEDIUM",2,1.2439999999999998,3.0,target_circuit_2024,critical
+2024,Lance Stroll,STR,Aston Martin,17.0,14.0,0.0,Lapped,3,17.0,91.094,0.0,0.0,61,"SOFT,MEDIUM",2,0.0,3.0,target_circuit_2024,critical
+2024,Guanyu Zhou,ZHO,Kick Sauber,20.0,15.0,0.0,Lapped,5,20.0,92.054,0.0,0.0,61,"SOFT,MEDIUM",2,0.0,3.0,target_circuit_2024,critical
+2024,Valtteri Bottas,BOT,Kick Sauber,19.0,16.0,0.0,Lapped,3,19.0,91.572,0.0,0.0,61,"SOFT,MEDIUM",2,0.0,3.0,target_circuit_2024,critical
+2024,Pierre Gasly,GAS,Alpine,18.0,17.0,0.0,Lapped,1,18.0,91.312,0.0,0.0,61,"SOFT,MEDIUM",2,0.0,3.0,target_circuit_2024,critical
+2024,Daniel Ricciardo,RIC,RB,16.0,18.0,0.0,Lapped,-2,16.0,91.085,0.0,0.0,61,"SOFT,MEDIUM",2,0.0,3.0,target_circuit_2024,critical
+2024,Kevin Magnussen,MAG,Haas F1 Team,14.0,19.0,0.0,Finished,-5,14.0,90.829,90.653,0.0,57,"SOFT,MEDIUM",2,1.1280000000000001,3.0,target_circuit_2024,critical
+2024,Alexander Albon,ALB,Williams,11.0,20.0,0.0,Retired,-9,11.0,90.679,90.474,0.0,15,SOFT,0,0.9489999999999981,3.0,target_circuit_2024,critical
+2025,Max Verstappen,VER,Red Bull Racing,1.0,1.0,25.0,Finished,0,1.0,101.331,101.255,101.117,51,"SOFT,MEDIUM",2,0.0,2.5,recent_form_azerbaijan_2025,high
+2025,George Russell,RUS,Mercedes,5.0,2.0,18.0,Finished,3,5.0,101.646,101.455,102.07,51,"SOFT,MEDIUM",2,0.9529999999999887,2.5,recent_form_azerbaijan_2025,high
+2025,Carlos Sainz,SAI,Williams,2.0,3.0,15.0,Finished,-1,2.0,102.635,101.675,101.595,51,"SOFT,MEDIUM",2,0.47799999999999443,2.5,recent_form_azerbaijan_2025,high
+2025,Kimi Antonelli,ANT,Mercedes,4.0,4.0,12.0,Finished,0,4.0,102.247,101.464,101.717,51,"SOFT,MEDIUM",2,0.5999999999999943,2.5,recent_form_azerbaijan_2025,high
+2025,Liam Lawson,LAW,Racing Bulls,3.0,5.0,10.0,Finished,-2,3.0,102.257,101.537,101.707,51,"SOFT,MEDIUM",2,0.5899999999999892,2.5,recent_form_azerbaijan_2025,high
+2025,Yuki Tsunoda,TSU,Red Bull Racing,6.0,6.0,8.0,Finished,0,6.0,102.347,101.788,102.143,51,"SOFT,MEDIUM",2,1.0259999999999962,2.5,recent_form_azerbaijan_2025,high
+2025,Lando Norris,NOR,McLaren,7.0,7.0,6.0,Finished,0,7.0,101.322,101.396,102.239,51,"SOFT,MEDIUM",2,1.1219999999999999,2.5,recent_form_azerbaijan_2025,high
+2025,Lewis Hamilton,HAM,Ferrari,12.0,8.0,4.0,Finished,4,12.0,101.821,102.183,0.0,51,"SOFT,MEDIUM",2,1.0660000000000025,2.5,recent_form_azerbaijan_2025,high
+2025,Charles Leclerc,LEC,Ferrari,10.0,9.0,2.0,Finished,1,10.0,101.458,101.519,0.0,51,"SOFT,MEDIUM",2,0.402000000000001,2.5,recent_form_azerbaijan_2025,high
+2025,Isack Hadjar,HAD,Racing Bulls,8.0,10.0,1.0,Finished,-2,8.0,101.656,101.647,102.372,51,"SOFT,MEDIUM",2,1.2549999999999955,2.5,recent_form_azerbaijan_2025,high
+2025,Gabriel Bortoleto,BOR,Kick Sauber,13.0,11.0,0.0,Finished,2,13.0,102.511,102.277,0.0,51,"SOFT,MEDIUM",2,1.1599999999999966,2.5,recent_form_azerbaijan_2025,high
+2025,Oliver Bearman,BEA,Haas F1 Team,15.0,12.0,0.0,Finished,3,15.0,102.666,0.0,0.0,51,"SOFT,MEDIUM",2,0.0,2.5,recent_form_azerbaijan_2025,high
+2025,Alexander Albon,ALB,Williams,19.0,13.0,0.0,Finished,6,19.0,103.778,0.0,0.0,51,"SOFT,MEDIUM",2,0.0,2.5,recent_form_azerbaijan_2025,high
+2025,Esteban Ocon,OCO,Haas F1 Team,20.0,14.0,0.0,Finished,6,20.0,0.0,0.0,0.0,51,"SOFT,MEDIUM",2,0.0,2.5,recent_form_azerbaijan_2025,high
+2025,Fernando Alonso,ALO,Aston Martin,11.0,15.0,0.0,Finished,-4,11.0,102.211,101.857,0.0,51,"SOFT,MEDIUM",2,0.7399999999999949,2.5,recent_form_azerbaijan_2025,high
+2025,Nico Hulkenberg,HUL,Kick Sauber,17.0,16.0,0.0,Finished,1,17.0,102.916,0.0,0.0,51,"SOFT,MEDIUM",2,0.0,2.5,recent_form_azerbaijan_2025,high
+2025,Lance Stroll,STR,Aston Martin,14.0,17.0,0.0,Finished,-3,14.0,102.101,103.061,0.0,51,"SOFT,MEDIUM",2,1.9440000000000026,2.5,recent_form_azerbaijan_2025,high
+2025,Pierre Gasly,GAS,Alpine,18.0,18.0,0.0,Lapped,0,18.0,103.139,0.0,0.0,50,"SOFT,MEDIUM",2,0.0,2.5,recent_form_azerbaijan_2025,high
+2025,Franco Colapinto,COL,Alpine,16.0,19.0,0.0,Lapped,-3,16.0,102.779,0.0,0.0,50,"SOFT,MEDIUM",2,0.0,2.5,recent_form_azerbaijan_2025,high
+2025,Oscar Piastri,PIA,McLaren,9.0,20.0,0.0,Retired,-11,9.0,101.839,101.414,0.0,1,SOFT,0,0.29699999999999704,2.5,recent_form_azerbaijan_2025,high
+2025,Lando Norris,NOR,McLaren,1.0,1.0,25.0,Finished,0,1.0,64.672,64.41,63.971,70,"SOFT,MEDIUM",2,-37.14600000000001,2.5,recent_form_great britain_2025,high
+2025,Oscar Piastri,PIA,McLaren,3.0,2.0,18.0,Finished,1,3.0,64.966,64.556,64.554,70,"SOFT,MEDIUM",2,-36.563,2.5,recent_form_great britain_2025,high
+2025,Charles Leclerc,LEC,Ferrari,2.0,3.0,15.0,Finished,-1,2.0,65.197,64.734,64.492,70,"SOFT,MEDIUM",2,-36.625,2.5,recent_form_great britain_2025,high
+2025,Lewis Hamilton,HAM,Ferrari,4.0,4.0,12.0,Finished,0,4.0,65.115,64.896,64.582,70,"SOFT,MEDIUM",2,-36.53500000000001,2.5,recent_form_great britain_2025,high
+2025,George Russell,RUS,Mercedes,5.0,5.0,10.0,Finished,0,5.0,65.189,64.86,64.763,70,"SOFT,MEDIUM",2,-36.354,2.5,recent_form_great britain_2025,high
+2025,Liam Lawson,LAW,Racing Bulls,6.0,6.0,8.0,Finished,0,6.0,65.017,65.041,64.926,70,"SOFT,MEDIUM",2,-36.191,2.5,recent_form_great britain_2025,high
+2025,Fernando Alonso,ALO,Aston Martin,11.0,7.0,6.0,Lapped,4,11.0,65.197,65.128,0.0,69,"SOFT,MEDIUM",2,-35.989000000000004,2.5,recent_form_great britain_2025,high
+2025,Gabriel Bortoleto,BOR,Kick Sauber,8.0,8.0,4.0,Lapped,0,8.0,65.123,64.846,65.132,69,"SOFT,MEDIUM",2,-35.985,2.5,recent_form_great britain_2025,high
+2025,Nico Hulkenberg,HUL,Kick Sauber,20.0,9.0,2.0,Lapped,11,20.0,65.606,0.0,0.0,69,"SOFT,MEDIUM",2,0.0,2.5,recent_form_great britain_2025,high
+2025,Esteban Ocon,OCO,Haas F1 Team,17.0,10.0,1.0,Lapped,7,17.0,65.364,0.0,0.0,69,"SOFT,MEDIUM",2,0.0,2.5,recent_form_great britain_2025,high
+2025,Oliver Bearman,BEA,Haas F1 Team,15.0,11.0,0.0,Lapped,4,15.0,65.218,65.312,0.0,69,"SOFT,MEDIUM",2,-35.80500000000001,2.5,recent_form_great britain_2025,high
+2025,Isack Hadjar,HAD,Racing Bulls,13.0,12.0,0.0,Lapped,1,13.0,65.063,65.226,0.0,69,"SOFT,MEDIUM",2,-35.891000000000005,2.5,recent_form_great britain_2025,high
+2025,Pierre Gasly,GAS,Alpine,10.0,13.0,0.0,Lapped,-3,10.0,65.054,64.846,65.649,69,"SOFT,MEDIUM",2,-35.468,2.5,recent_form_great britain_2025,high
+2025,Lance Stroll,STR,Aston Martin,16.0,14.0,0.0,Lapped,2,16.0,65.329,0.0,0.0,69,"SOFT,MEDIUM",2,0.0,2.5,recent_form_great britain_2025,high
+2025,Franco Colapinto,COL,Alpine,14.0,15.0,0.0,Lapped,-1,14.0,65.278,65.288,0.0,69,"SOFT,MEDIUM",2,-35.82900000000001,2.5,recent_form_great britain_2025,high
+2025,Yuki Tsunoda,TSU,Red Bull Racing,18.0,16.0,0.0,Lapped,2,18.0,65.369,0.0,0.0,68,"SOFT,MEDIUM",2,0.0,2.5,recent_form_great britain_2025,high
+2025,Alexander Albon,ALB,Williams,12.0,17.0,0.0,Retired,-5,12.0,65.143,65.205,0.0,15,SOFT,0,-35.912000000000006,2.5,recent_form_great britain_2025,high
+2025,Max Verstappen,VER,Red Bull Racing,7.0,18.0,0.0,Retired,-11,7.0,65.106,64.836,64.929,1,SOFT,0,-36.188,2.5,recent_form_great britain_2025,high
+2025,Kimi Antonelli,ANT,Mercedes,9.0,19.0,0.0,Retired,-10,9.0,65.178,65.052,65.276,1,SOFT,0,-35.84100000000001,2.5,recent_form_great britain_2025,high
+2025,Carlos Sainz,SAI,Williams,19.0,20.0,0.0,Did not start,-1,19.0,65.582,0.0,0.0,1,SOFT,0,0.0,2.5,recent_form_great britain_2025,high
+2025,Lando Norris,NOR,McLaren,3.0,1.0,25.0,Finished,2,3.0,75.523,74.89,75.413,70,"SOFT,MEDIUM",2,-25.704000000000008,2.5,recent_form_hungary_2025,high
+2025,Oscar Piastri,PIA,McLaren,2.0,2.0,18.0,Finished,0,2.0,75.211,74.941,75.398,70,"SOFT,MEDIUM",2,-25.71900000000001,2.5,recent_form_hungary_2025,high
+2025,George Russell,RUS,Mercedes,4.0,3.0,15.0,Finished,1,4.0,75.627,75.201,75.425,70,"SOFT,MEDIUM",2,-25.692000000000007,2.5,recent_form_hungary_2025,high
+2025,Charles Leclerc,LEC,Ferrari,1.0,4.0,12.0,Finished,-3,1.0,75.582,75.455,75.372,70,"SOFT,MEDIUM",2,-25.745000000000005,2.5,recent_form_hungary_2025,high
+2025,Fernando Alonso,ALO,Aston Martin,5.0,5.0,10.0,Finished,0,5.0,75.281,75.395,75.481,70,"SOFT,MEDIUM",2,-25.63600000000001,2.5,recent_form_hungary_2025,high
+2025,Gabriel Bortoleto,BOR,Kick Sauber,7.0,6.0,8.0,Finished,1,7.0,75.586,75.687,75.725,70,"SOFT,MEDIUM",2,-25.39200000000001,2.5,recent_form_hungary_2025,high
+2025,Lance Stroll,STR,Aston Martin,6.0,7.0,6.0,Finished,-1,6.0,75.673,75.129,75.498,70,"SOFT,MEDIUM",2,-25.619,2.5,recent_form_hungary_2025,high
+2025,Liam Lawson,LAW,Racing Bulls,9.0,8.0,4.0,Finished,1,9.0,75.849,75.63,75.821,70,"SOFT,MEDIUM",2,-25.296000000000006,2.5,recent_form_hungary_2025,high
+2025,Max Verstappen,VER,Red Bull Racing,8.0,9.0,2.0,Finished,-1,8.0,75.736,75.547,75.728,70,"SOFT,MEDIUM",2,-25.38900000000001,2.5,recent_form_hungary_2025,high
+2025,Kimi Antonelli,ANT,Mercedes,15.0,10.0,1.0,Lapped,5,15.0,75.782,76.386,0.0,69,"SOFT,MEDIUM",2,-24.73100000000001,2.5,recent_form_hungary_2025,high
+2025,Isack Hadjar,HAD,Racing Bulls,10.0,11.0,0.0,Lapped,-1,10.0,75.516,75.469,75.915,69,"SOFT,MEDIUM",2,-25.201999999999998,2.5,recent_form_hungary_2025,high
+2025,Lewis Hamilton,HAM,Ferrari,12.0,12.0,0.0,Lapped,0,12.0,75.733,75.702,0.0,69,"SOFT,MEDIUM",2,-25.415000000000006,2.5,recent_form_hungary_2025,high
+2025,Nico Hulkenberg,HUL,Kick Sauber,18.0,13.0,0.0,Lapped,5,19.0,76.081,0.0,0.0,69,"SOFT,MEDIUM",2,0.0,2.5,recent_form_hungary_2025,high
+2025,Carlos Sainz,SAI,Williams,13.0,14.0,0.0,Lapped,-1,13.0,75.652,75.781,0.0,69,"SOFT,MEDIUM",2,-25.336,2.5,recent_form_hungary_2025,high
+2025,Alexander Albon,ALB,Williams,19.0,15.0,0.0,Lapped,4,20.0,76.223,0.0,0.0,69,"SOFT,MEDIUM",2,0.0,2.5,recent_form_hungary_2025,high
+2025,Esteban Ocon,OCO,Haas F1 Team,17.0,16.0,0.0,Lapped,1,18.0,76.023,0.0,0.0,69,"SOFT,MEDIUM",2,0.0,2.5,recent_form_hungary_2025,high
+2025,Yuki Tsunoda,TSU,Red Bull Racing,20.0,17.0,0.0,Lapped,3,16.0,75.899,0.0,0.0,69,"SOFT,MEDIUM",2,0.0,2.5,recent_form_hungary_2025,high
+2025,Franco Colapinto,COL,Alpine,14.0,18.0,0.0,Lapped,-4,14.0,75.875,76.159,0.0,69,"SOFT,MEDIUM",2,-24.958,2.5,recent_form_hungary_2025,high
+2025,Pierre Gasly,GAS,Alpine,16.0,19.0,0.0,Lapped,-3,17.0,75.966,0.0,0.0,69,"SOFT,MEDIUM",2,0.0,2.5,recent_form_hungary_2025,high
+2025,Oliver Bearman,BEA,Haas F1 Team,11.0,20.0,0.0,Retired,-9,11.0,75.75,75.694,0.0,48,"SOFT,MEDIUM",1,-25.423000000000002,2.5,recent_form_hungary_2025,high
+2025,Oscar Piastri,PIA,McLaren,2.0,1.0,25.0,Finished,1,2.0,101.201,100.626,100.647,44,"SOFT,MEDIUM",1,-0.46999999999999886,2.5,recent_form_belgium_2025,high
+2025,Lando Norris,NOR,McLaren,1.0,2.0,18.0,Finished,-1,1.0,101.01,100.715,100.562,44,"SOFT,MEDIUM",1,-0.5550000000000068,2.5,recent_form_belgium_2025,high
+2025,Charles Leclerc,LEC,Ferrari,3.0,3.0,15.0,Finished,0,3.0,101.635,101.084,100.9,44,"SOFT,MEDIUM",1,-0.21699999999999875,2.5,recent_form_belgium_2025,high
+2025,Max Verstappen,VER,Red Bull Racing,4.0,4.0,12.0,Finished,0,4.0,101.334,100.951,100.903,44,"SOFT,MEDIUM",1,-0.21399999999999864,2.5,recent_form_belgium_2025,high
+2025,George Russell,RUS,Mercedes,6.0,5.0,10.0,Finished,1,6.0,101.784,101.254,101.26,44,"SOFT,MEDIUM",1,0.14300000000000068,2.5,recent_form_belgium_2025,high
+2025,Alexander Albon,ALB,Williams,5.0,6.0,8.0,Finished,-1,5.0,101.772,101.505,101.201,44,"SOFT,MEDIUM",1,0.08399999999998897,2.5,recent_form_belgium_2025,high
+2025,Lewis Hamilton,HAM,Ferrari,18.0,7.0,6.0,Finished,11,16.0,101.939,0.0,0.0,44,"SOFT,MEDIUM",1,0.0,2.5,recent_form_belgium_2025,high
+2025,Liam Lawson,LAW,Racing Bulls,9.0,8.0,4.0,Finished,1,9.0,101.748,101.297,101.328,44,"SOFT,MEDIUM",1,0.21099999999999852,2.5,recent_form_belgium_2025,high
+2025,Gabriel Bortoleto,BOR,Kick Sauber,10.0,9.0,2.0,Finished,1,10.0,101.908,101.336,102.387,44,"SOFT,MEDIUM",1,1.269999999999996,2.5,recent_form_belgium_2025,high
+2025,Pierre Gasly,GAS,Alpine,13.0,10.0,1.0,Finished,3,13.0,101.8,101.633,0.0,44,"SOFT,MEDIUM",1,0.5159999999999911,2.5,recent_form_belgium_2025,high
+2025,Oliver Bearman,BEA,Haas F1 Team,12.0,11.0,0.0,Finished,1,12.0,101.617,101.617,0.0,44,"SOFT,MEDIUM",1,0.5,2.5,recent_form_belgium_2025,high
+2025,Nico Hulkenberg,HUL,Kick Sauber,14.0,12.0,0.0,Finished,2,14.0,101.844,101.707,0.0,44,"SOFT,MEDIUM",1,0.5899999999999892,2.5,recent_form_belgium_2025,high
+2025,Yuki Tsunoda,TSU,Red Bull Racing,7.0,13.0,0.0,Finished,-6,7.0,101.84,101.245,101.284,44,"SOFT,MEDIUM",1,0.1670000000000016,2.5,recent_form_belgium_2025,high
+2025,Lance Stroll,STR,Aston Martin,16.0,14.0,0.0,Finished,2,20.0,102.502,0.0,0.0,44,"SOFT,MEDIUM",1,0.0,2.5,recent_form_belgium_2025,high
+2025,Esteban Ocon,OCO,Haas F1 Team,11.0,15.0,0.0,Finished,-4,11.0,101.884,101.525,0.0,44,"SOFT,MEDIUM",1,0.40800000000000125,2.5,recent_form_belgium_2025,high
+2025,Kimi Antonelli,ANT,Mercedes,19.0,16.0,0.0,Finished,3,18.0,102.139,0.0,0.0,44,"SOFT,MEDIUM",1,0.0,2.5,recent_form_belgium_2025,high
+2025,Fernando Alonso,ALO,Aston Martin,20.0,17.0,0.0,Finished,3,19.0,102.385,0.0,0.0,44,"SOFT,MEDIUM",1,0.0,2.5,recent_form_belgium_2025,high
+2025,Carlos Sainz,SAI,Williams,17.0,18.0,0.0,Finished,-1,15.0,101.691,101.758,0.0,44,"SOFT,MEDIUM",1,0.6409999999999911,2.5,recent_form_belgium_2025,high
+2025,Franco Colapinto,COL,Alpine,15.0,19.0,0.0,Finished,-4,17.0,102.022,0.0,0.0,44,"SOFT,MEDIUM",1,0.0,2.5,recent_form_belgium_2025,high
+2025,Isack Hadjar,HAD,Racing Bulls,8.0,20.0,0.0,Lapped,-12,8.0,101.572,101.281,101.31,43,"SOFT,MEDIUM",1,0.19299999999999784,2.5,recent_form_belgium_2025,high
+2025,Oscar Piastri,PIA,McLaren,1.0,1.0,25.0,Finished,0,1.0,69.338,68.964,68.662,72,"SOFT,MEDIUM",2,-32.455,2.5,recent_form_netherlands_2025,high
+2025,Max Verstappen,VER,Red Bull Racing,3.0,2.0,18.0,Finished,1,3.0,69.696,69.122,68.925,72,"SOFT,MEDIUM",2,-32.19200000000001,2.5,recent_form_netherlands_2025,high
+2025,Isack Hadjar,HAD,Racing Bulls,4.0,3.0,15.0,Finished,1,4.0,69.966,69.439,69.208,72,"SOFT,MEDIUM",2,-31.909000000000006,2.5,recent_form_netherlands_2025,high
+2025,George Russell,RUS,Mercedes,5.0,4.0,12.0,Finished,1,5.0,69.676,69.313,69.255,72,"SOFT,MEDIUM",2,-31.86200000000001,2.5,recent_form_netherlands_2025,high
+2025,Alexander Albon,ALB,Williams,15.0,5.0,10.0,Finished,10,15.0,69.792,69.652,0.0,72,"SOFT,MEDIUM",2,-31.465000000000003,2.5,recent_form_netherlands_2025,high
+2025,Oliver Bearman,BEA,Haas F1 Team,20.0,6.0,8.0,Finished,14,19.0,70.262,0.0,0.0,72,"SOFT,MEDIUM",2,0.0,2.5,recent_form_netherlands_2025,high
+2025,Lance Stroll,STR,Aston Martin,19.0,7.0,6.0,Finished,12,20.0,0.0,0.0,0.0,72,"SOFT,MEDIUM",2,0.0,2.5,recent_form_netherlands_2025,high
+2025,Fernando Alonso,ALO,Aston Martin,10.0,8.0,4.0,Finished,2,10.0,69.95,69.366,69.63,72,"SOFT,MEDIUM",2,-31.48700000000001,2.5,recent_form_netherlands_2025,high
+2025,Yuki Tsunoda,TSU,Red Bull Racing,12.0,9.0,2.0,Finished,3,12.0,69.954,69.622,0.0,72,"SOFT,MEDIUM",2,-31.495000000000005,2.5,recent_form_netherlands_2025,high
+2025,Esteban Ocon,OCO,Haas F1 Team,18.0,10.0,1.0,Finished,8,18.0,70.197,0.0,0.0,72,"SOFT,MEDIUM",2,0.0,2.5,recent_form_netherlands_2025,high
+2025,Franco Colapinto,COL,Alpine,16.0,11.0,0.0,Finished,5,16.0,70.104,0.0,0.0,72,"SOFT,MEDIUM",2,0.0,2.5,recent_form_netherlands_2025,high
+2025,Liam Lawson,LAW,Racing Bulls,8.0,12.0,0.0,Finished,-4,8.0,69.779,69.383,69.5,72,"SOFT,MEDIUM",2,-31.617000000000004,2.5,recent_form_netherlands_2025,high
+2025,Carlos Sainz,SAI,Williams,9.0,13.0,0.0,Finished,-4,9.0,69.98,69.472,69.505,72,"SOFT,MEDIUM",2,-31.61200000000001,2.5,recent_form_netherlands_2025,high
+2025,Nico Hulkenberg,HUL,Kick Sauber,17.0,14.0,0.0,Finished,3,17.0,70.195,0.0,0.0,72,"SOFT,MEDIUM",2,0.0,2.5,recent_form_netherlands_2025,high
+2025,Gabriel Bortoleto,BOR,Kick Sauber,13.0,15.0,0.0,Finished,-2,13.0,70.037,69.622,0.0,72,"SOFT,MEDIUM",2,-31.495000000000005,2.5,recent_form_netherlands_2025,high
+2025,Kimi Antonelli,ANT,Mercedes,11.0,16.0,0.0,Finished,-5,11.0,69.845,69.493,0.0,72,"SOFT,MEDIUM",2,-31.62400000000001,2.5,recent_form_netherlands_2025,high
+2025,Pierre Gasly,GAS,Alpine,14.0,17.0,0.0,Finished,-3,14.0,69.894,69.637,0.0,72,"SOFT,MEDIUM",2,-31.480000000000004,2.5,recent_form_netherlands_2025,high
+2025,Lando Norris,NOR,McLaren,2.0,18.0,0.0,Retired,-16,2.0,69.469,68.874,68.674,65,"SOFT,MEDIUM",2,-32.443,2.5,recent_form_netherlands_2025,high
+2025,Charles Leclerc,LEC,Ferrari,6.0,19.0,0.0,Retired,-13,6.0,69.906,69.304,69.34,52,"SOFT,MEDIUM",2,-31.777,2.5,recent_form_netherlands_2025,high
+2025,Lewis Hamilton,HAM,Ferrari,7.0,20.0,0.0,Retired,-13,7.0,69.9,69.261,69.39,23,SOFT,0,-31.727000000000004,2.5,recent_form_netherlands_2025,high
+2025,Lando Norris,NOR,McLaren,1.0,1.0,25.0,Finished,0,1.0,71.285,70.57,69.954,78,"SOFT,MEDIUM",3,-31.16300000000001,1.5,similar_circuit_monaco_2025,medium
+2025,Charles Leclerc,LEC,Ferrari,2.0,2.0,18.0,Finished,0,2.0,71.229,70.581,70.063,78,"SOFT,MEDIUM",3,-31.054000000000002,1.5,similar_circuit_monaco_2025,medium
+2025,Oscar Piastri,PIA,McLaren,3.0,3.0,15.0,Finished,0,3.0,71.308,70.858,70.129,78,"SOFT,MEDIUM",3,-30.988,1.5,similar_circuit_monaco_2025,medium
+2025,Max Verstappen,VER,Red Bull Racing,4.0,4.0,12.0,Finished,0,5.0,71.431,70.875,70.669,78,"SOFT,MEDIUM",3,-30.448000000000008,1.5,similar_circuit_monaco_2025,medium
+2025,Lewis Hamilton,HAM,Ferrari,7.0,5.0,10.0,Finished,2,4.0,71.575,70.883,70.382,78,"SOFT,MEDIUM",3,-30.735,1.5,similar_circuit_monaco_2025,medium
+2025,Isack Hadjar,HAD,Racing Bulls,5.0,6.0,8.0,Lapped,-1,6.0,71.811,71.04,70.923,77,"SOFT,MEDIUM",3,-30.194000000000003,1.5,similar_circuit_monaco_2025,medium
+2025,Esteban Ocon,OCO,Haas F1 Team,8.0,7.0,6.0,Lapped,1,8.0,71.839,71.262,70.942,77,"SOFT,MEDIUM",3,-30.17500000000001,1.5,similar_circuit_monaco_2025,medium
+2025,Liam Lawson,LAW,Racing Bulls,9.0,8.0,4.0,Lapped,1,9.0,71.818,71.25,71.129,77,"SOFT,MEDIUM",3,-29.988,1.5,similar_circuit_monaco_2025,medium
+2025,Alexander Albon,ALB,Williams,10.0,9.0,2.0,Lapped,1,10.0,71.629,70.732,71.213,76,"SOFT,MEDIUM",3,-29.90400000000001,1.5,similar_circuit_monaco_2025,medium
+2025,Carlos Sainz,SAI,Williams,11.0,10.0,1.0,Lapped,1,11.0,71.707,71.362,0.0,76,"SOFT,MEDIUM",3,-29.75500000000001,1.5,similar_circuit_monaco_2025,medium
+2025,George Russell,RUS,Mercedes,14.0,11.0,0.0,Lapped,3,14.0,71.507,0.0,0.0,76,"SOFT,MEDIUM",3,0.0,1.5,similar_circuit_monaco_2025,medium
+2025,Oliver Bearman,BEA,Haas F1 Team,20.0,12.0,0.0,Lapped,8,17.0,71.979,0.0,0.0,76,"SOFT,MEDIUM",3,0.0,1.5,similar_circuit_monaco_2025,medium
+2025,Franco Colapinto,COL,Alpine,18.0,13.0,0.0,Lapped,5,20.0,72.597,0.0,0.0,76,"SOFT,MEDIUM",3,0.0,1.5,similar_circuit_monaco_2025,medium
+2025,Gabriel Bortoleto,BOR,Kick Sauber,16.0,14.0,0.0,Lapped,2,16.0,71.902,0.0,0.0,76,"SOFT,MEDIUM",3,0.0,1.5,similar_circuit_monaco_2025,medium
+2025,Lance Stroll,STR,Aston Martin,19.0,15.0,0.0,Lapped,4,19.0,72.563,0.0,0.0,76,"SOFT,MEDIUM",3,0.0,1.5,similar_circuit_monaco_2025,medium
+2025,Nico Hulkenberg,HUL,Kick Sauber,13.0,16.0,0.0,Lapped,-3,13.0,71.871,71.596,0.0,76,"SOFT,MEDIUM",3,-29.521,1.5,similar_circuit_monaco_2025,medium
+2025,Yuki Tsunoda,TSU,Red Bull Racing,12.0,17.0,0.0,Lapped,-5,12.0,71.8,71.415,0.0,76,"SOFT,MEDIUM",3,-29.701999999999998,1.5,similar_circuit_monaco_2025,medium
+2025,Kimi Antonelli,ANT,Mercedes,15.0,18.0,0.0,Lapped,-3,15.0,71.88,0.0,0.0,75,"SOFT,MEDIUM",3,0.0,1.5,similar_circuit_monaco_2025,medium
+2025,Fernando Alonso,ALO,Aston Martin,6.0,19.0,0.0,Retired,-13,7.0,71.674,71.182,70.924,37,"SOFT,MEDIUM",1,-30.192999999999998,1.5,similar_circuit_monaco_2025,medium
+2025,Pierre Gasly,GAS,Alpine,17.0,20.0,0.0,Retired,-3,18.0,71.994,0.0,0.0,8,SOFT,0,0.0,1.5,similar_circuit_monaco_2025,medium
+2025,Max Verstappen,VER,Red Bull Racing,1.0,1.0,25.0,Finished,0,1.0,101.331,101.255,101.117,51,"SOFT,MEDIUM",2,0.0,1.5,similar_circuit_azerbaijan_2025,medium
+2025,George Russell,RUS,Mercedes,5.0,2.0,18.0,Finished,3,5.0,101.646,101.455,102.07,51,"SOFT,MEDIUM",2,0.9529999999999887,1.5,similar_circuit_azerbaijan_2025,medium
+2025,Carlos Sainz,SAI,Williams,2.0,3.0,15.0,Finished,-1,2.0,102.635,101.675,101.595,51,"SOFT,MEDIUM",2,0.47799999999999443,1.5,similar_circuit_azerbaijan_2025,medium
+2025,Kimi Antonelli,ANT,Mercedes,4.0,4.0,12.0,Finished,0,4.0,102.247,101.464,101.717,51,"SOFT,MEDIUM",2,0.5999999999999943,1.5,similar_circuit_azerbaijan_2025,medium
+2025,Liam Lawson,LAW,Racing Bulls,3.0,5.0,10.0,Finished,-2,3.0,102.257,101.537,101.707,51,"SOFT,MEDIUM",2,0.5899999999999892,1.5,similar_circuit_azerbaijan_2025,medium
+2025,Yuki Tsunoda,TSU,Red Bull Racing,6.0,6.0,8.0,Finished,0,6.0,102.347,101.788,102.143,51,"SOFT,MEDIUM",2,1.0259999999999962,1.5,similar_circuit_azerbaijan_2025,medium
+2025,Lando Norris,NOR,McLaren,7.0,7.0,6.0,Finished,0,7.0,101.322,101.396,102.239,51,"SOFT,MEDIUM",2,1.1219999999999999,1.5,similar_circuit_azerbaijan_2025,medium
+2025,Lewis Hamilton,HAM,Ferrari,12.0,8.0,4.0,Finished,4,12.0,101.821,102.183,0.0,51,"SOFT,MEDIUM",2,1.0660000000000025,1.5,similar_circuit_azerbaijan_2025,medium
+2025,Charles Leclerc,LEC,Ferrari,10.0,9.0,2.0,Finished,1,10.0,101.458,101.519,0.0,51,"SOFT,MEDIUM",2,0.402000000000001,1.5,similar_circuit_azerbaijan_2025,medium
+2025,Isack Hadjar,HAD,Racing Bulls,8.0,10.0,1.0,Finished,-2,8.0,101.656,101.647,102.372,51,"SOFT,MEDIUM",2,1.2549999999999955,1.5,similar_circuit_azerbaijan_2025,medium
+2025,Gabriel Bortoleto,BOR,Kick Sauber,13.0,11.0,0.0,Finished,2,13.0,102.511,102.277,0.0,51,"SOFT,MEDIUM",2,1.1599999999999966,1.5,similar_circuit_azerbaijan_2025,medium
+2025,Oliver Bearman,BEA,Haas F1 Team,15.0,12.0,0.0,Finished,3,15.0,102.666,0.0,0.0,51,"SOFT,MEDIUM",2,0.0,1.5,similar_circuit_azerbaijan_2025,medium
+2025,Alexander Albon,ALB,Williams,19.0,13.0,0.0,Finished,6,19.0,103.778,0.0,0.0,51,"SOFT,MEDIUM",2,0.0,1.5,similar_circuit_azerbaijan_2025,medium
+2025,Esteban Ocon,OCO,Haas F1 Team,20.0,14.0,0.0,Finished,6,20.0,0.0,0.0,0.0,51,"SOFT,MEDIUM",2,0.0,1.5,similar_circuit_azerbaijan_2025,medium
+2025,Fernando Alonso,ALO,Aston Martin,11.0,15.0,0.0,Finished,-4,11.0,102.211,101.857,0.0,51,"SOFT,MEDIUM",2,0.7399999999999949,1.5,similar_circuit_azerbaijan_2025,medium
+2025,Nico Hulkenberg,HUL,Kick Sauber,17.0,16.0,0.0,Finished,1,17.0,102.916,0.0,0.0,51,"SOFT,MEDIUM",2,0.0,1.5,similar_circuit_azerbaijan_2025,medium
+2025,Lance Stroll,STR,Aston Martin,14.0,17.0,0.0,Finished,-3,14.0,102.101,103.061,0.0,51,"SOFT,MEDIUM",2,1.9440000000000026,1.5,similar_circuit_azerbaijan_2025,medium
+2025,Pierre Gasly,GAS,Alpine,18.0,18.0,0.0,Lapped,0,18.0,103.139,0.0,0.0,50,"SOFT,MEDIUM",2,0.0,1.5,similar_circuit_azerbaijan_2025,medium
+2025,Franco Colapinto,COL,Alpine,16.0,19.0,0.0,Lapped,-3,16.0,102.779,0.0,0.0,50,"SOFT,MEDIUM",2,0.0,1.5,similar_circuit_azerbaijan_2025,medium
+2025,Oscar Piastri,PIA,McLaren,9.0,20.0,0.0,Retired,-11,9.0,101.839,101.414,0.0,1,SOFT,0,0.29699999999999704,1.5,similar_circuit_azerbaijan_2025,medium
+2025,Oscar Piastri,PIA,McLaren,1.0,1.0,25.0,Finished,0,1.0,91.392,90.454,89.841,57,"SOFT,MEDIUM",2,-11.27600000000001,1.2,night_race_bahrain_2025,supplementary
+2025,George Russell,RUS,Mercedes,3.0,2.0,18.0,Finished,1,2.0,91.494,90.664,90.009,57,"SOFT,MEDIUM",2,-11.108000000000004,1.2,night_race_bahrain_2025,supplementary
+2025,Lando Norris,NOR,McLaren,6.0,3.0,15.0,Finished,3,6.0,91.107,90.56,90.267,57,"SOFT,MEDIUM",2,-10.850000000000009,1.2,night_race_bahrain_2025,supplementary
+2025,Charles Leclerc,LEC,Ferrari,2.0,4.0,12.0,Finished,-2,3.0,91.454,90.724,90.175,57,"SOFT,MEDIUM",2,-10.942000000000007,1.2,night_race_bahrain_2025,supplementary
+2025,Lewis Hamilton,HAM,Ferrari,9.0,5.0,10.0,Finished,4,9.0,91.219,91.009,90.772,57,"SOFT,MEDIUM",2,-10.344999999999999,1.2,night_race_bahrain_2025,supplementary
+2025,Max Verstappen,VER,Red Bull Racing,7.0,6.0,8.0,Finished,1,7.0,91.303,91.019,90.423,57,"SOFT,MEDIUM",2,-10.694000000000003,1.2,night_race_bahrain_2025,supplementary
+2025,Pierre Gasly,GAS,Alpine,4.0,7.0,6.0,Finished,-3,5.0,91.462,90.643,90.216,57,"SOFT,MEDIUM",2,-10.90100000000001,1.2,night_race_bahrain_2025,supplementary
+2025,Esteban Ocon,OCO,Haas F1 Team,14.0,8.0,4.0,Finished,6,14.0,91.594,0.0,0.0,57,"SOFT,MEDIUM",2,0.0,1.2,night_race_bahrain_2025,supplementary
+2025,Yuki Tsunoda,TSU,Red Bull Racing,10.0,9.0,2.0,Finished,1,10.0,91.751,91.228,91.303,57,"SOFT,MEDIUM",2,-9.814000000000007,1.2,night_race_bahrain_2025,supplementary
+2025,Oliver Bearman,BEA,Haas F1 Team,20.0,10.0,1.0,Finished,10,20.0,92.373,0.0,0.0,57,"SOFT,MEDIUM",2,0.0,1.2,night_race_bahrain_2025,supplementary
+2025,Kimi Antonelli,ANT,Mercedes,5.0,11.0,0.0,Finished,-6,4.0,91.415,90.716,90.213,57,"SOFT,MEDIUM",2,-10.90400000000001,1.2,night_race_bahrain_2025,supplementary
+2025,Alexander Albon,ALB,Williams,15.0,12.0,0.0,Finished,3,15.0,92.04,0.0,0.0,57,"SOFT,MEDIUM",2,0.0,1.2,night_race_bahrain_2025,supplementary
+2025,Isack Hadjar,HAD,Racing Bulls,12.0,13.0,0.0,Finished,-1,12.0,91.591,91.271,0.0,57,"SOFT,MEDIUM",2,-9.846000000000004,1.2,night_race_bahrain_2025,supplementary
+2025,Jack Doohan,DOO,Alpine,11.0,14.0,0.0,Finished,-3,11.0,91.414,91.245,0.0,57,"SOFT,MEDIUM",2,-9.872,1.2,night_race_bahrain_2025,supplementary
+2025,Fernando Alonso,ALO,Aston Martin,13.0,15.0,0.0,Finished,-2,13.0,91.634,91.886,0.0,57,"SOFT,MEDIUM",2,-9.231000000000009,1.2,night_race_bahrain_2025,supplementary
+2025,Liam Lawson,LAW,Racing Bulls,17.0,16.0,0.0,Finished,1,17.0,92.165,0.0,0.0,57,"SOFT,MEDIUM",2,0.0,1.2,night_race_bahrain_2025,supplementary
+2025,Lance Stroll,STR,Aston Martin,19.0,17.0,0.0,Finished,2,19.0,92.283,0.0,0.0,57,"SOFT,MEDIUM",2,0.0,1.2,night_race_bahrain_2025,supplementary
+2025,Gabriel Bortoleto,BOR,Kick Sauber,18.0,18.0,0.0,Finished,0,18.0,92.186,0.0,0.0,57,"SOFT,MEDIUM",2,0.0,1.2,night_race_bahrain_2025,supplementary
+2025,Carlos Sainz,SAI,Williams,8.0,19.0,0.0,Retired,-11,8.0,91.591,90.844,90.68,45,"SOFT,MEDIUM",1,-10.436999999999998,1.2,night_race_bahrain_2025,supplementary
+2025,Nico Hulkenberg,HUL,Kick Sauber,16.0,20.0,0.0,Disqualified,-4,16.0,92.067,0.0,0.0,57,"SOFT,MEDIUM",2,0.0,1.2,night_race_bahrain_2025,supplementary
+2025,Oscar Piastri,PIA,McLaren,2.0,1.0,25.0,Finished,1,2.0,87.901,87.545,87.304,50,"SOFT,MEDIUM",2,-13.813000000000002,1.2,night_race_saudi arabia_2025,supplementary
+2025,Max Verstappen,VER,Red Bull Racing,1.0,2.0,18.0,Finished,-1,1.0,87.778,87.529,87.294,50,"SOFT,MEDIUM",2,-13.823000000000008,1.2,night_race_saudi arabia_2025,supplementary
+2025,Charles Leclerc,LEC,Ferrari,4.0,3.0,15.0,Finished,1,4.0,88.552,87.866,87.67,50,"SOFT,MEDIUM",2,-13.447000000000003,1.2,night_race_saudi arabia_2025,supplementary
+2025,Lando Norris,NOR,McLaren,10.0,4.0,12.0,Finished,6,10.0,87.805,87.481,0.0,50,"SOFT,MEDIUM",2,-13.63600000000001,1.2,night_race_saudi arabia_2025,supplementary
+2025,George Russell,RUS,Mercedes,3.0,5.0,10.0,Finished,-2,3.0,88.282,87.599,87.407,50,"SOFT,MEDIUM",2,-13.710000000000008,1.2,night_race_saudi arabia_2025,supplementary
+2025,Kimi Antonelli,ANT,Mercedes,5.0,6.0,8.0,Finished,-1,5.0,88.128,87.798,87.866,50,"SOFT,MEDIUM",2,-13.251000000000005,1.2,night_race_saudi arabia_2025,supplementary
+2025,Lewis Hamilton,HAM,Ferrari,7.0,7.0,6.0,Finished,0,7.0,88.372,88.102,88.201,50,"SOFT,MEDIUM",2,-12.916000000000011,1.2,night_race_saudi arabia_2025,supplementary
+2025,Carlos Sainz,SAI,Williams,6.0,8.0,4.0,Finished,-2,6.0,88.354,88.024,88.164,50,"SOFT,MEDIUM",2,-12.953000000000003,1.2,night_race_saudi arabia_2025,supplementary
+2025,Alexander Albon,ALB,Williams,11.0,9.0,2.0,Finished,2,11.0,88.279,88.109,0.0,50,"SOFT,MEDIUM",2,-13.00800000000001,1.2,night_race_saudi arabia_2025,supplementary
+2025,Isack Hadjar,HAD,Racing Bulls,14.0,10.0,1.0,Finished,4,14.0,88.571,88.418,0.0,50,"SOFT,MEDIUM",2,-12.698999999999998,1.2,night_race_saudi arabia_2025,supplementary
+2025,Fernando Alonso,ALO,Aston Martin,13.0,11.0,0.0,Finished,2,13.0,88.548,88.303,0.0,50,"SOFT,MEDIUM",2,-12.814000000000007,1.2,night_race_saudi arabia_2025,supplementary
+2025,Liam Lawson,LAW,Racing Bulls,12.0,12.0,0.0,Finished,0,12.0,88.561,88.191,0.0,50,"SOFT,MEDIUM",2,-12.926000000000002,1.2,night_race_saudi arabia_2025,supplementary
+2025,Oliver Bearman,BEA,Haas F1 Team,15.0,13.0,0.0,Finished,2,15.0,88.536,88.648,0.0,50,"SOFT,MEDIUM",2,-12.469000000000008,1.2,night_race_saudi arabia_2025,supplementary
+2025,Esteban Ocon,OCO,Haas F1 Team,19.0,14.0,0.0,Finished,5,19.0,89.092,0.0,0.0,50,"SOFT,MEDIUM",2,0.0,1.2,night_race_saudi arabia_2025,supplementary
+2025,Nico Hulkenberg,HUL,Kick Sauber,18.0,15.0,0.0,Lapped,3,18.0,88.782,0.0,0.0,49,"SOFT,MEDIUM",1,0.0,1.2,night_race_saudi arabia_2025,supplementary
+2025,Lance Stroll,STR,Aston Martin,16.0,16.0,0.0,Lapped,0,16.0,88.645,0.0,0.0,49,"SOFT,MEDIUM",1,0.0,1.2,night_race_saudi arabia_2025,supplementary
+2025,Jack Doohan,DOO,Alpine,17.0,17.0,0.0,Lapped,0,17.0,88.739,0.0,0.0,49,"SOFT,MEDIUM",1,0.0,1.2,night_race_saudi arabia_2025,supplementary
+2025,Gabriel Bortoleto,BOR,Kick Sauber,20.0,18.0,0.0,Lapped,2,20.0,89.462,0.0,0.0,49,"SOFT,MEDIUM",1,0.0,1.2,night_race_saudi arabia_2025,supplementary
+2025,Yuki Tsunoda,TSU,Red Bull Racing,8.0,19.0,0.0,Retired,-11,8.0,88.226,87.99,88.204,1,SOFT,0,-12.913000000000011,1.2,night_race_saudi arabia_2025,supplementary
+2025,Pierre Gasly,GAS,Alpine,9.0,20.0,0.0,Retired,-11,9.0,88.421,88.025,88.367,1,SOFT,0,-12.75,1.2,night_race_saudi arabia_2025,supplementary

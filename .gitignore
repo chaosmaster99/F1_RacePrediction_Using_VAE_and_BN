@@ -1,21 +1,8 @@
-# ========================================
-# F1 PREDICTION PROJECT .GITIGNORE
-# ========================================
-# Comprehensive ignore file for F1 VAE + Bayesian Network prediction system
-
-# ========================================
-# PYTHON SPECIFIC
-# ========================================
-
-# Byte-compiled / optimized / DLL files
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
-
-# C extensions
 *.so
-
-# Distribution / packaging
 .Python
 build/
 develop-eggs/
@@ -29,208 +16,72 @@ parts/
 sdist/
 var/
 wheels/
+pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
 MANIFEST
 
-# PyInstaller
-*.manifest
-*.spec
-
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
-
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.nox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-*.py,cover
-.hypothesis/
-.pytest_cache/
-cover/
-
-# Virtual environments
-.env
-.venv
-env/
+# Virtual Environment
 venv/
+env/
 ENV/
 env.bak/
 venv.bak/
 
-# Spyder project settings
-.spyderproject
-.spyproject
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+.jupyter/
 
-# Rope project settings
-.ropeproject
+# PyTorch Models
+*.pth
+*.pt
+*.ckpt
 
-# mkdocs documentation
-/site
+# Data files (large datasets)
+# Uncomment if you don't want to track data files
+# code/cache/
+# code/data/
+# data/
 
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
-
-# Pyre type checker
-.pyre/
-
-# pytype static type analyzer
-.pytype/
-
-# Cython debug symbols
-cython_debug/
-
-# PyCharm IDE
-.idea/
-
-# ========================================
-# JUPYTER NOTEBOOKS
-# ========================================
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# IPython profile
-profile_default/
-ipython_config.py
-
-# Jupyter Lab workspaces
-.jupyter-workspaces/
-
-# ========================================
-# F1 PROJECT SPECIFIC
-# ========================================
-
-# Trained Models (large files, should be tracked with Git LFS or excluded)
-models/*.pth
-models/*.pkl
-models/*.h5
-models/*.onnx
-models/*.pb
-
-# Model summaries and logs (keep structure files but not large training outputs)
-models/training_logs/
-models/checkpoints/
-
-# VAE Results and Outputs
-vae_results/
-data/vae_results/
-
-# Bayesian Network Results
-bn_results/
-data/bn_results/
-
-# Processed Data (intermediate files that can be regenerated)
-data/processed/
+# Preprocessed data (can be regenerated)
+code/data/preprocessed/*.csv
+code/data/processed/*.csv
 data/preprocessed/*.csv
-data/preprocessed/*.pkl
-data/preprocessed/*.json
+data/processed/*.csv
 
-# Raw Data Cache (F1 telemetry data can be large)
-data/raw/*.csv
-data/raw/*.json
-data/raw/*.pkl
+# Keep only summary files
+!*summary*.json
+!*summary*.csv
 
-# FastF1 Cache (very large telemetry cache files)
-cache/
-fastf1_cache/
-*.sqlite
-*.db
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
 
-# Final Simulator Outputs
-data/final_simulator/
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
 
-# ========================================
-# MACHINE LEARNING SPECIFIC
-# ========================================
-
-# TensorBoard logs
+# Logs
+*.log
 logs/
-runs/
-tensorboard_logs/
-
-# MLflow artifacts
-mlruns/
-
-# Weights & Biases
-wandb/
-
-# Model artifacts
-artifacts/
-
-# Experiment tracking
-experiments/
-checkpoints/
-
-# ========================================
-# DATA SCIENCE & ANALYTICS
-# ========================================
-
-# Large data files
-*.csv
-*.json
-*.pkl
-*.parquet
-*.feather
-*.h5
-*.hdf5
-
-# But keep small config/metadata files
-!requirements.txt
-!config.py
-!*.md
-!PROJECT_OVERVIEW.md
-!FEATURE_WEIGHTING_SUMMARY.md
-
-# Keep essential structure files
-!data/.gitkeep
-!models/.gitkeep
-!cache/.gitkeep
-
-# ========================================
-# DEVELOPMENT ENVIRONMENT
-# ========================================
 
 # Environment variables
 .env
 .env.local
-.env.development
-.env.test
-.env.production
 
-# Editor configurations
-.vscode/
-.vs/
-*.swp
-*.swo
-*~
-
-# OS generated files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# Windows specific
-desktop.ini
-
-# ========================================
-# TEMPORARY FILES
-# ========================================
+# Model outputs
+code/models/*.pth
+code/models/*.pt
+!code/models/*summary*.json
 
 # Temporary files
 *.tmp
@@ -238,61 +89,15 @@ desktop.ini
 temp/
 tmp/
 
-# Log files
-*.log
-logs/
+# FastF1 cache
+code/cache/
+cache/
 
-# Backup files
-*.bak
-*.backup
-*~
+# Results
+code/data/bn_results/
+data/bn_results/
 
-# ========================================
-# PROJECT DOCUMENTATION
-# ========================================
-
-# Keep documentation but ignore generated docs
-docs/_build/
-docs/build/
-
-# But keep essential project docs
-!README.md
-!LICENSE
-!CHANGELOG.md
-!CONTRIBUTING.md
-
-# ========================================
-# CUSTOM F1 PROJECT EXCEPTIONS
-# ========================================
-
-# Keep small sample data for testing
-!data/samples/
-!data/test/
-
-# Keep configuration templates
-!config/
-!configs/
-
-# Keep utility scripts
-!utils.py
-!config.py
-
-# Keep Jupyter notebooks (main deliverables)
-!*.ipynb
-
-# Keep Python source files
-!*.py
-
-# Keep requirements and setup
-!requirements.txt
-!setup.py
-!pyproject.toml
-
-# ========================================
-# PERFORMANCE & SIZE OPTIMIZATION
-# ========================================
-
-# Ignore large model files over 100MB (use Git LFS instead)
-# Uncomment if you want to track models with Git LFS:
-# *.pth filter=lfs diff=lfs merge=lfs -text
-# *.pkl filter=lfs diff=lfs merge=lfs -text
+# Raw data (can be regenerated via API)
+# Uncomment if you want to exclude raw data
+# code/data/raw/
+# data/raw/

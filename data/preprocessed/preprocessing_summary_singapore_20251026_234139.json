@@ -1,0 +1,99 @@
+{
+  "circuit": "singapore",
+  "timestamp": "20251026_234139",
+  "original_shape": [
+    240,
+    21
+  ],
+  "engineered_shape": [
+    240,
+    41
+  ],
+  "features_created": 20,
+  "datasets_created": 2,
+  "all_features": [
+    "year",
+    "driver_name",
+    "driver_abbr",
+    "team",
+    "grid_pos",
+    "finish_pos",
+    "points",
+    "status",
+    "pos_change",
+    "quali_pos",
+    "q1_time",
+    "q2_time",
+    "q3_time",
+    "total_laps",
+    "tyres_used",
+    "pit_stops",
+    "gap_to_pole",
+    "data_weight",
+    "data_source",
+    "prediction_relevance",
+    "driver_category",
+    "driver_quali_form",
+    "driver_race_form",
+    "driver_points_form",
+    "team_quali_avg",
+    "team_race_avg",
+    "quali_race_delta",
+    "abs_pos_change",
+    "gap_to_pole_normalized",
+    "cumulative_races",
+    "years_experience",
+    "driver_skill",
+    "team_strength",
+    "is_aggressive_strategy",
+    "race_completion_rate",
+    "year_normalized",
+    "driver_encoded",
+    "team_encoded",
+    "year_encoded",
+    "finish_pos_binned",
+    "finish_pos_binned_encoded"
+  ],
+  "dataset_info": {
+    "core_weighted": {
+      "feature_count": 7,
+      "sample_count": 240,
+      "features": [
+        "grid_pos",
+        "quali_pos",
+        "driver_quali_form",
+        "team_quali_avg",
+        "quali_race_delta",
+        "driver_skill",
+        "team_strength"
+      ]
+    },
+    "vae_optimized": {
+      "feature_count": 21,
+      "sample_count": 240,
+      "features": [
+        "grid_pos",
+        "quali_pos",
+        "driver_quali_form",
+        "team_quali_avg",
+        "quali_race_delta",
+        "driver_skill",
+        "team_strength",
+        "q3_time",
+        "pit_stops",
+        "gap_to_pole",
+        "data_weight",
+        "driver_race_form",
+        "driver_points_form",
+        "team_race_avg",
+        "abs_pos_change",
+        "gap_to_pole_normalized",
+        "cumulative_races",
+        "years_experience",
+        "is_aggressive_strategy",
+        "race_completion_rate",
+        "q2_time"
+      ]
+    }
+  }
+}
