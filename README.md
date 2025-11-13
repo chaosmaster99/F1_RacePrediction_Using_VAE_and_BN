@@ -739,7 +739,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Maintainer**: HXMAN76  
+**Project Maintainer**: chaosmaster99 
 **Repository**: [F1-Prediction-System-Using-VAE-and-BN](https://github.com/HXMAN76/F1-Prediction-System-Using-VAE-and-BN)  
 **Issues**: [GitHub Issues](https://github.com/HXMAN76/F1-Prediction-System-Using-VAE-and-BN/issues)
 
